@@ -25,6 +25,7 @@ h1{
     }
 section{
         height: 500px;
+     overflow: hidden;
     }
 .button{
     text-decoration: none;
