@@ -64,7 +64,7 @@ section{
 }
 .lower-middle{
     background-image: url("images/latest-work-bg.png");
-    background-size: 1400px 600px;
+    background-size: 1400px 350px;
     background-repeat: no-repeat;
 }
 .bottom-part{
@@ -86,4 +86,7 @@ section{
 }
 footer{
     text-align: center;
+}
+.button:hover{
+    color: firebrick;
 }
