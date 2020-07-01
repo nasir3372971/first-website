@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 40px;
+    color: rgb(231, 127, 143);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-top: 50px;
+}
+#text{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.half-width img{
+    width: 70%;
+}
+.top-part{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 1300px 520px;
+    }
+section{
+        height: 500px;
+    }
+.button{
+    text-decoration: none;
+    background-color: rgb(231, 127, 143);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+#img{
+    margin-left: 200px;
+    width: 35%;
+}
+.middle-part{
+    background-image: url("images/biography-bg.png");
+    background-size: 1600px 520px;
+    background-repeat: no-repeat;
+}
+#bio{
+    margin-top: 120px;
+}
+.one-third{
+    text-align: center;
+    margin-top: 90px;
+}
+.work{
+    width: 25%;
+    float: left;
+    padding: 20px;
+}
+.work img{
+    width: 100%;
+}
+.work-img{
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.lower-middle{
+    background-image: url("images/latest-work-bg.png");
+    background-size: 1400px 600px;
+    background-repeat: no-repeat;
+}
+.bottom-part{
+    text-align: center;
+    margin-top: 80px;
+    background-image: url(images/footer-bg.png);
+    background-size: 1300px 600px;
+    background-repeat: no-repeat;
+}
+.message{
+    background-color: rgb(231, 127, 143);
+    margin: 5px 400px;
+    padding: 5px 0px;
+    color: white;
+    border-radius: 5px;
+}
+.text-color{
+    color: dimgray;
+}
+footer{
+    text-align: center;
+}
